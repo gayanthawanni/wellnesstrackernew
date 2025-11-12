@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">WellnessTracker</string>
+
+    <!-- Habit strings -->
+    <string name="add_habit">Add habit</string>
+    <string name="edit_habit">Edit habit</string>
+    <string name="delete_habit">Delete habit</string>
+    <!-- Confirmation message with placeholder for habit title -->
+    <string name="delete_habit_confirm">Are you sure you want to delete \'%1$s\'?</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="habit_name_hint">e.g. Drink water</string>
+
+    <!-- Habit item strings -->
+    <string name="habit_default_title">Habit</string>
+    <!-- Format string for percentages (replace %d with actual value in code) -->
+    <string name="habit_percentage_format">%d%%</string>
+    <string name="habit_frequency_every_day">Every day</string>
+    <string name="habit_action_edit">Edit</string>
+    <string name="habit_action_delete">Delete</string>
+
+    <!-- Habit fragment header -->
+    <string name="habits_header_title">Habits</string>
+    <!-- Calendar placeholders (removed \n because AAPT2 hates it) -->
+    <string name="calendar_day_1">18 TUE</string>
+    <string name="calendar_day_2">19 WED</string>
+    <string name="calendar_day_3">20 THU</string>
+    <string name="calendar_day_4">21 FRI</string>
+    <string name="calendar_day_5">22 SAT</string>
+    <string name="todays_progress">Today\'s Progress</string>
+
+    <!-- Hydration strings -->
+    <string name="hydration_daily_goal">Daily Goal</string>
+    <string name="hydration_current_amount">Current Amount</string>
+    <string name="hydration_add_water">Add Water</string>
+    <string name="hydration_remove_water">Remove Water</string>
+    <string name="hydration_cup_selection">Select Your Cup</string>
+    <string name="hydration_small_glass">Small Glass</string>
+    <string name="hydration_medium_glass">Medium Glass</string>
+    <string name="hydration_large_glass">Large Glass</string>
+    <string name="hydration_water_bottle">Water Bottle</string>
+    <string name="hydration_ml_unit">ml</string>
+    <string name="hydration_today_progress">Today\'s Progress</string>
+    <string name="hydration_goal_reached">Great job! You\'ve reached your daily goal!</string>
+    <string name="hydration_keep_going">Keep going! You\'re doing great!</string>
+</resources>

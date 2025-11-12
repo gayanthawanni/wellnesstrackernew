@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#BB86FC</color>
+
+    <!-- Primary App Colors -->
+    <color name="primary_blue">#4A90E2</color>
+    <color name="primary_blue_light">#E6F2FF</color>
+    <color name="primary_blue_dark">#357ABD</color>
+
+    <!-- Modern habit colors -->
+    <color name="habit_green">#4CAF50</color>
+    <color name="habit_green_light">#E8F5E8</color>
+    <color name="habit_blue">#2196F3</color>
+    <color name="habit_blue_light">#E3F2FD</color>
+    <color name="habit_yellow">#FFC107</color>
+    <color name="habit_yellow_light">#FFF8E1</color>
+    <color name="habit_red">#F44336</color>
+    <color name="habit_red_light">#FFEBEE</color>
+    <color name="habit_purple">#9C27B0</color>
+    <color name="habit_purple_light">#F3E5F5</color>
+    <color name="habit_orange">#FF9800</color>
+    <color name="habit_orange_light">#FFF3E0</color>
+    <color name="habit_pink">#E91E63</color>
+    <color name="habit_pink_light">#FCE4EC</color>
+    <color name="habit_teal">#009688</color>
+    <color name="habit_teal_light">#E0F2F1</color>
+    <color name="gray">#9E9E9E</color>
+
+    <!-- UI colors -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_dark">#2D3748</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#374151</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_secondary_dark">#A0AEC0</color>
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_light">#E8F5E8</color>
+    
+    <!-- Completion status colors -->
+    <color name="completed_background">#E8F5E9</color>
+    <color name="completed_text">#2E7D32</color>
+
+    <!-- Mood colors -->
+    <color name="mood_happy">#FFE066</color>
+    <color name="mood_happy_light">#FFF9E6</color>
+    <color name="mood_excited">#FF9F43</color>
+    <color name="mood_excited_light">#FFF0E6</color>
+    <color name="mood_love">#FF6B9D</color>
+    <color name="mood_love_light">#FFE6EE</color>
+    <color name="mood_calm">#A8E6CF</color>
+    <color name="mood_calm_light">#E6F7F0</color>
+    <color name="mood_sad">#74B9FF</color>
+    <color name="mood_sad_light">#E6F2FF</color>
+    <color name="mood_angry">#FD79A8</color>
+    <color name="mood_angry_light">#FFE6EE</color>
+    <color name="mood_tired">#DDDDE0</color>
+    <color name="mood_tired_light">#F5F5F5</color>
+    <color name="mood_stressed">#B2BEC3</color>
+    <color name="mood_stressed_light">#F0F2F3</color>
+
+    <!-- Calendar colors -->
+    <color name="calendar_today">#00E676</color>
+    <color name="calendar_selected">#2196F3</color>
+    <color name="calendar_mood_1">#FFE066</color>
+    <color name="calendar_mood_2">#FF9F43</color>
+    <color name="calendar_mood_3">#FF6B9D</color>
+    <color name="calendar_mood_4">#A8E6CF</color>
+    <color name="calendar_mood_5">#74B9FF</color>
+
+    <!-- Hydration colors -->
+    <color name="water_primary">#2196F3</color>
+    <color name="water_primary_light">#E3F2FD</color>
+    <color name="water_light">#64B5F6</color>
+    <color name="water_dark">#1976D2</color>
+    <color name="water_background">#E3F2FD</color>
+    <color name="water_wave">#42A5F5</color>
+    <color name="water_drop">#1E88E5</color>
+    <color name="hydration_goal_reached">#4CAF50</color>
+    <color name="hydration_progress">#03DAC6</color>
+
+    <!-- UI Component Colors -->
+    <color name="switch_track">#E0E0E0</color>
+    <color name="switch_thumb">#2196F3</color>
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_dark">#4A5568</color>
+    <color name="divider">#F0F0F0</color>
+    <color name="divider_dark">#4A5568</color>
+
+    <!-- Status Colors -->
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_error">#F44336</color>
+    <color name="status_warning">#FFC107</color>
+    <color name="status_info">#2196F3</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">#2196F3</color>
+    <color name="button_primary_text">#FFFFFF</color>
+    <color name="button_secondary">#E3F2FD</color>
+    <color name="button_secondary_text">#2196F3</color>
+    <color name="button_disabled">#BDBDBD</color>
+    <color name="button_disabled_text">#9E9E9E</color>
+
+    <!-- Input Field Colors -->
+    <color name="input_background">#FFFFFF</color>
+    <color name="input_border">#E0E0E0</color>
+    <color name="input_focus_border">#2196F3</color>
+    <color name="input_error_border">#F44336</color>
+    <color name="input_text">#212121</color>
+    <color name="input_hint">#9E9E9E</color>
+
+    <!-- Shadow and Elevation -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="shadow_dark">#4D000000</color>
+
+    <!-- Transparency -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_white">#80FFFFFF</color>
+    <color name="semi_transparent_black">#80000000</color>
+    <color name="semi_transparent_primary">#802196F3</color>
+
+    <!-- Custom -->
+    <color name="my_custom_color">#12345F</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_line_1">#2196F3</color>
+    <color name="chart_line_2">#4CAF50</color>
+    <color name="chart_line_3">#FF9800</color>
+    <color name="chart_line_4">#E91E63</color>
+    <color name="chart_grid">#E0E0E0</color>
+    <color name="chart_text">#757575</color>
+
+    <!-- Notification Colors -->
+    <color name="notification_success">#4CAF50</color>
+    <color name="notification_warning">#FF9800</color>
+    <color name="notification_error">#F44336</color>
+    <color name="notification_info">#2196F3</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_background">#E0E0E0</color>
+    <color name="progress_primary">#2196F3</color>
+    <color name="progress_success">#4CAF50</color>
+    <color name="progress_warning">#FF9800</color>
+    <color name="progress_error">#F44336</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_selected">#2196F3</color>
+    <color name="bottom_nav_unselected">#757575</color>
+    <color name="bottom_nav_ripple">#1A2196F3</color>
+</resources>

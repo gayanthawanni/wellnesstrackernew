@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. Material3, DayNight capable. -->
+    <style name="Base.Theme.Wellnesstracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary and secondary brand colors -->
+        <item name="colorPrimary">@color/habit_blue</item>
+        <item name="colorSecondary">@color/accent_green</item>
+
+        <!-- Set status bar color to match surface -->
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <!-- Control light vs dark status bar text -->
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+
+    <!-- Alias theme that your manifest/activity uses -->
+    <style name="Theme.Wellnesstracker" parent="Base.Theme.Wellnesstracker" />
+
+</resources>
